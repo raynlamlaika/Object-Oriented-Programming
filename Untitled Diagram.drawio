@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="TnPaHoKOVc2dg0eu2bPg">
-    <mxGraphModel>
+    <mxGraphModel dx="1834" dy="1887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base concepts&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;1. Objects&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;2.Classes&lt;/span&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;3. Data abstraction and encapsulation&lt;br&gt;4. Inheritance&lt;br&gt;5. Polymorphism&lt;br&gt;6. Dynamic binding&lt;br&gt;7. Message passing&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-453" y="-469" width="250" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-6" value="Object Oriented Programing" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="-553" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.31;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="O85JEkJsvEFq4HlWG9ba-6" target="O85JEkJsvEFq4HlWG9ba-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dotnettrickscloud.blob.core.windows.net/article/cpp/4620240224164911.webp;" vertex="1" parent="1">
+          <mxGeometry x="-134" y="-449" width="260.24" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.001;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="O85JEkJsvEFq4HlWG9ba-3" target="O85JEkJsvEFq4HlWG9ba-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

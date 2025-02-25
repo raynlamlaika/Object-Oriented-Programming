@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="TnPaHoKOVc2dg0eu2bPg">
-    <mxGraphModel dx="2046" dy="1887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="1567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O85JEkJsvEFq4HlWG9ba-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base concepts&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;1. Objects&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;2.Classes&lt;/span&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;3. Data abstraction and encapsulation&lt;br&gt;4. Inheritance&lt;br&gt;5. Polymorphism&lt;br&gt;6. Dynamic binding&lt;br&gt;7. Message passing&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base concepts&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;1. Objects&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;2.Classes&lt;/span&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;3. Data abstraction and encapsulation&lt;br&gt;4. Inheritance&lt;br&gt;5. Polymorphism&lt;br&gt;6. Dynamic binding&lt;br&gt;7. Message passing&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-494" y="-473" width="250" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="O85JEkJsvEFq4HlWG9ba-6" value="Object Oriented Programing" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-6" value="Object Oriented Programing" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-1" y="-553" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O85JEkJsvEFq4HlWG9ba-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.31;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="O85JEkJsvEFq4HlWG9ba-6" target="O85JEkJsvEFq4HlWG9ba-3">
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.31;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="O85JEkJsvEFq4HlWG9ba-6" target="O85JEkJsvEFq4HlWG9ba-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O85JEkJsvEFq4HlWG9ba-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dotnettrickscloud.blob.core.windows.net/article/cpp/4620240224164911.webp;" vertex="1" parent="1">
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dotnettrickscloud.blob.core.windows.net/article/cpp/4620240224164911.webp;" parent="1" vertex="1">
           <mxGeometry x="-189" y="-460" width="226.88" height="204" as="geometry" />
         </mxCell>
-        <mxCell id="O85JEkJsvEFq4HlWG9ba-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;in example of OBJECT :&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The program part of the object may be collection of programs (retrive of data, change age,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;change of salary). In general even any user –defined type-such as employee may be used. In the&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Amit object the name, age and salary are called attributes of the object.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;in example of OBJECT :&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The program part of the object may be collection of programs (retrive of data, change age,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;change of salary). In general even any user –defined type-such as employee may be used. In the&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Amit object the name, age and salary are called attributes of the object.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="-216" y="-239" width="510" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="O85JEkJsvEFq4HlWG9ba-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and for CLASS&lt;/span&gt;&lt;/div&gt;A group of objects that share common properties for data part and some program part are&lt;br&gt;collectively called as class." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and for CLASS&lt;/span&gt;&lt;/div&gt;A group of objects that share common properties for data part and some program part are&lt;br&gt;collectively called as class." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-205" y="-89" width="479" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="O85JEkJsvEFq4HlWG9ba-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=1.005;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.708;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O85JEkJsvEFq4HlWG9ba-8" target="O85JEkJsvEFq4HlWG9ba-24">
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=1.005;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.708;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="O85JEkJsvEFq4HlWG9ba-8" target="O85JEkJsvEFq4HlWG9ba-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="132" y="17" as="sourcePoint" />
             <mxPoint x="182" y="-33" as="targetPoint" />
@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O85JEkJsvEFq4HlWG9ba-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="O85JEkJsvEFq4HlWG9ba-8">
+        <mxCell id="O85JEkJsvEFq4HlWG9ba-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="O85JEkJsvEFq4HlWG9ba-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-193" y="-325" as="sourcePoint" />
             <mxPoint x="-211" y="-45" as="targetPoint" />
@@ -46,6 +46,9 @@
               <mxPoint x="-220" y="-87" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i0Awe5McZi2ViThqyTis-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;About Access Specifiers&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;public:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;are the member who is accessible from outside of the class&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;protected:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;private:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;are the member who cannot be accessible outside of the class&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;we can only work with them &quot;members&quot; in side of the class&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="376" y="-517" width="396" height="242" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
